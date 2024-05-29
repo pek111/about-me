@@ -1,0 +1,11 @@
+<svg version="1.1" xmlns="http://www.w3.org/2000/svg" xmlns:xlink="http://www.w3.org/1999/xlink" width="428.45"
+    height="800" viewBox="0,0,428.45,800">
+    <g transform="translate(-25.775,220)">
+        <g data-paper-data="{&quot;isPaintingLayer&quot;:true}" fill="#ffffff" fill-rule="nonzero" stroke="none"
+            stroke-width="1" stroke-linecap="butt" stroke-linejoin="miter" stroke-miterlimit="10" stroke-dasharray=""
+            stroke-dashoffset="0" style="mix-blend-mode: normal">
+            <path
+                d="M309.45,230v350h-156.5v-350h-127.175v-144.775h127.175v-110.35c0,-125.525 74.775,-194.875 189.175,-194.875c54.8,0 112.1,9.775 112.1,9.775v123.25h-63.15c-62.225,0 -81.625,38.625 -81.625,78.225v93.95h138.925l-22.225,144.775z" />
+        </g>
+    </g>
+</svg>
